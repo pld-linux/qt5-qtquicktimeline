@@ -9,12 +9,12 @@
 Summary:	The Qt5 Quick Timeline module
 Summary(pl.UTF-8):	Moduł Qt5 Quick Timeline
 Name:		qt5-%{orgname}
-Version:	5.15.16
+Version:	5.15.17
 Release:	1
 License:	GPL v3+ or commercial
 Group:		X11/Libraries
 Source0:	https://download.qt.io/official_releases/qt/5.15/%{version}/submodules/%{orgname}-everywhere-opensource-src-%{version}.tar.xz
-# Source0-md5:	63b23f5bb686835906b73bea0b7b3eaf
+# Source0-md5:	50f9246dfeb7acfaeadfc9fb106aa995
 URL:		https://www.qt.io/
 BuildRequires:	Qt5Core-devel >= %{qtbase_ver}
 BuildRequires:	Qt5Qml-devel >= %{qtdeclarative_ver}
